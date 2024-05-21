@@ -1,0 +1,6 @@
+﻿  NotePadMFCView.cpp
+C:\Users\dlwns\source\repos\NotePadMFC\NotePadMFC\NotePadMFCView.cpp(346,4): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dlwns\source\repos\NotePadMFC\NotePadMFC\NotePadMFCView.cpp(411,4): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dlwns\source\repos\NotePadMFC\NotePadMFC\NotePadMFCView.cpp(430,4): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dlwns\source\repos\NotePadMFC\NotePadMFC\NotePadMFCView.cpp(650,4): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  NotePadMFC.vcxproj -> C:\Users\dlwns\source\repos\NotePadMFC\x64\Debug\NotePadMFC.exe
